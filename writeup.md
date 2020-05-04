@@ -1,6 +1,6 @@
 # **Finding Lane Lines on the Road** 
 
-## By Jacinto CApote Robles
+## By Jacinto Capote Robles
 
 ---
 
